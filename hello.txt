@@ -1,1 +1,2 @@
 Hello, this is my first contribution.
+This is a new change for testing staging and committing.
